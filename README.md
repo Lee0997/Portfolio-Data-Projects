@@ -8,15 +8,12 @@ Each project is self-contained in its own folder with code, data (if shareable),
 
 ## 🗂 Repository Structure
 
-📦 data-analysis-portfolio
-├── project-1-name/
-│ ├── notebooks/
+📦 Portfolio-Data-Projects
+├── project-name/
 │ ├── data/
+│ ├── notebooks/
 │ ├── scripts/
 │ └── README.md
-├── project-2-name/
-│ └── ...
-└── project-n-name/
 
 Each project typically includes:
 
