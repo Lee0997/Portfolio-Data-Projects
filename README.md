@@ -28,7 +28,9 @@ Each project typically includes:
 
 | Project | Description | Tools |
 
-**Credit Card Fraud** | Short summary of what the project is about (e.g., "Analyzed sales data to find revenue trends"). | `pandas`, `matplotlib`, `seaborn` |
+**Credit Card Fraud**  
+Short summary of what the project is about (e.g., "Analyzed sales data to find revenue trends").  
+`pandas`, `matplotlib`, `seaborn`
 
 ---
 
