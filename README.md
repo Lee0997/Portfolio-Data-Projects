@@ -26,11 +26,10 @@ Each project typically includes:
 
 ## 📁 Projects Overview
 
-| Project | Description | Tools |
-
-**Credit Card Fraud**  
-Short summary of what the project is about (e.g., "Analyzed sales data to find revenue trends").  
-`pandas`, `matplotlib`, `seaborn`
+| Project             | Description                                           | Tools                                     |
+| ------------------- | ----------------------------------------------------- | ----------------------------------------- |
+| Credit Card Fraud   | Analysis of credit card transactions to detect fraud. | pandas, matplotlib, seaborn               |
+| Student Performance | Analysis and modeling of student performance data.    | pandas, matplotlib, seaborn, scikit-learn |
 
 ---
 
